@@ -1,0 +1,21 @@
+h1 {
+  color: cornsilk;
+  font-size: 60px;
+}
+p{
+  text-indent: 25px;
+  color: lightblue;
+}
+p.intro {
+  font-size: 28px;
+  color: gold;
+}
+div#border {
+  background-color: palevioletred;
+  width: 700px;
+  min-height: 300px;
+  padding: 15px;
+  margin: 10px;
+  border: dashed 4px seashell;
+  font-size: 20px;
+}
