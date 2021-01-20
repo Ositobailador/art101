@@ -1,3 +1,58 @@
-li#ul_li_5_id, li#ul_li_5_id a {
-  color: yellow;
+body {
+  background-color: blue;
+}
+h1 {
+  text-align: center;
+  color: gold;
+  font-size: 200%;
+  margin: 30px;
+  font-style: italic;
+}
+
+div {
+  background-color: dodgerblue;
+  width: 1440px;
+  padding: 18px;
+  margin: 10px;
+  margin-bottom: 15px;
+  border: 3.2px solid goldenrod;
+  font-size: 125%;
+}
+
+h2 {
+  margin: 20px;
+  font-size: 135%;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: peachpuff;
+  text-decoration: overline underline gold;
+}
+
+div p {
+  margin-left: 20px;
+  color: cornsilk;
+}
+
+#labs {
+  text-decoration: underline pink wavy;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 85%;
+  color: papayawhip;
+}
+
+img {
+  border: 3px solid navy;
+}
+
+li {
+  color: mediumblue;
+}
+
+a {
+  color: aqua;
 }
