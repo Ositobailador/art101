@@ -1,0 +1,46 @@
+#box {
+  border: 3px solid black;
+  padding-left: 30px;
+  font-size: 125%;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 35px;
+  margin-bottom: 50px;
+}
+
+#fs {
+  width: 42%;
+  border: 2px solid navy;
+}
+
+#ba {
+  width: 60%;
+  height: 50%;
+  border: 2px solid navy;
+}
+
+#sc {
+  width: 75%;
+  height: 50%;
+  border: 2px solid navy;
+}
+
+#atom {
+  width: 60%;
+  height: 50%;
+  border: 2px solid navy;
+}
+
+#homepage {
+  width: 50%;
+  height: 50%;
+  border: 2px solid navy;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-bottom: 60px;
+}
