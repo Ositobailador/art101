@@ -1,0 +1,47 @@
+body {
+  background-color: #d93734;
+  color: white;
+}
+
+img {
+  width: 35%;
+  float: right;
+  margin-right: 18%;
+  margin-bottom: 10%;
+  border: 2px solid orange;
+}
+
+#whole {
+  background-color: #3495eb;
+  border: 3px solid black;
+  float: left;
+  margin: 1%;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 350%;
+  color: #ffa53d;
+}
+
+h2 {
+  font-variant: small-caps;
+  font-family: monospace;
+  font-size: 250%;
+  color: #ffc45e;
+  text-decoration: underline;
+}
+
+#results {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-family: Papyrus, fantasy;
+  color: black;
+}
+
+p {
+  font-size: 125%;
+}
