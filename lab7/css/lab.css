@@ -1,0 +1,48 @@
+h1 {
+  text-align: center;
+  font-size: 225%;
+  text-shadow: 3px 3px 3px #a570ff;
+}
+
+img {
+  float: right;
+  margin: 3%;
+  width: 28%;
+  padding: .5%;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+#yourname {
+  color: #8019d4;
+  font-size: 120%;
+  margin-left: 13%;
+}
+
+#docwrite {
+  color: white;
+  font-size: 120%;
+  text-decoration: underline;
+  padding-bottom: 1%;
+}
+
+h2, h3 {
+  font-size: 175%;
+  text-shadow: 2px 2px 2px #5ecfff;
+}
+
+body {
+  margin: 35px;
+  background-color: #00B2B3;
+}
+
+p {
+  font-size: 125%;
+}
+
+#border {
+  border: 4px solid black;
+  padding: 3%;
+  background-color: #FFA7B4;
+}
