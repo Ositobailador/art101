@@ -1,0 +1,35 @@
+div {
+  border: 4px solid #19ffc6;
+  padding: 2%;
+  margin: 1%;
+  margin-top: 3%;
+  background-color: #a33c8b;
+}
+
+body {
+  background-color: #ffa319;
+}
+
+h1 {
+  text-align: center;
+  font-size: 225%;
+  text-shadow: 3px 2px 3px #06b5c2;
+}
+
+h2 {
+  font-family: fantasy;
+  font-size: 160%;
+  color: #e67505;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 115%;
+}
+
+h3 {
+  font-size: 150%;
+  font-family: monospace;
+  color: #ffb62e;
+  text-decoration: overline underline;
+}
