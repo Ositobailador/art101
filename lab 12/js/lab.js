@@ -26,8 +26,7 @@ myButton.addEventListener('click', function() {
   // calls the function sortingHat with the input of the text as the argument
   var house = sortingHat(name);
   //
-  document.getElementById("output").innerHTML = "<p>The Sorting Hat has sorted you
-        into " + house + ".</p>";
+  document.getElementById("output").innerHTML = "<p>The Sorting Hat has sorted you into " + house + ".</p>";
 
   // if/else statemets that prints out one specific description of the haouse
   // that the user was put in and an image of the crest of the house
