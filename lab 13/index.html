@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="js/lab.js" defer></script>
+    <link rel="stylesheet" type="text/css" href="css/lab.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <title>Lab 13 - Loops</title>
+  </head>
+  <body>
+    <div id="context">
+      <h1>Lab 13: Loops</h1>
+
+      <h2>Challenges</h2>
+      <p>We had some trouble thinking about how to implement the oneLongString from task 2. Mostly, we didn’t know where it should go and what other factors we might need to include for it to work. We also had a minor setback with remembering how to do the text input for bonus task 3 and bonus task 4. Another minor challenge we had was what to do with the submit button that we created for those two bonus tasks. We knew that we had to create a submit button, and that it has to do something, but we had some trouble thinking of what we actually wanted it to do once the user clicks on it. </p>
+
+      <h2>Problems</h2>
+      <p>The main problem, we feel like, was that the screenshots weren’t following through the instructions we were given. Especially the javascript screenshot, we were totally confused on what it was doing, however we were able to do it differently. Bonus Task 2 was confusing and we didn’t understand what it meant by “hardcoded” values. Either we interpreted the question, but we thought this bonus  task was very similar to the next task. Another problematic task was Bonus Task 5, we just couldn’t figure out a way to output the values into separate columns. </p>
+
+      <h2>Results</h2>
+      <p>The results can be seen on our page:</p>
+    </div>
+
+    <div id="implementation">
+      <h3>Fizz!Buzz!Boom!Bang!</h3>
+      <b><i>Enter your sample number:</b></i>
+      <input type="number" min="0" max="1000" id="max"><br>
+      <b><i>Which factors should print what?</b></i><br>
+      <table id="table">
+        <tr>
+          <th>Factor Numbers</th>
+          <th>Factor Texts</th>
+        </tr>
+        <tr>
+          <td><input class="num" type="number" id="factor1"></td>
+          <td><input type="text" id="text1"></td>
+        </tr>
+        <tr>
+          <td><input class="num" type="number" id="factor2"></td>
+          <td><input type="text" id="text2"></td>
+        </tr>
+        <tr>
+          <td><input class="num" type="number" id="factor3"></td>
+          <td><input type="text" id="text3"></td>
+        </tr>
+        <td><input class="num" type="number" id="factor4"></td>
+        <td><input type="text" id="text4"></td>
+      </table>
+      <button type="button" id="my-button">Run!</button>
+    </div>
+
+    <div id="output"><h3>Output:</h3></div>
+  </body>
+</html>

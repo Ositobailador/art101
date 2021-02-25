@@ -1,0 +1,27 @@
+#table {
+  margin: 1%;
+}
+
+#max {
+  margin-bottom: 1%;
+}
+
+div {
+  border: 2px solid black;
+  margin: 2%;
+  padding:1%;
+  background-color: #ffe2c2;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 125%;
+  text-decoration: underline;
+}
+
+h2 {
+  text-decoration: overline underline;
+}
